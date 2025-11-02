@@ -13,7 +13,7 @@ Aplicar analítica avanzada para procesar un flujo de datos simulado en un conte
 ## Gráfico
 ![Gráfico de clics](/assets/clicks_chart.png)
 
-[Ver análisis de datos →](analisis.md)
+[Ver análisis de datos →](https://jsrc040.github.io/blog-spark/analisis.md)
 
 
 ## Reflexión
