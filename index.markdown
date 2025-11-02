@@ -17,4 +17,6 @@ Aplicar analítica avanzada para procesar un flujo de datos simulado en un conte
 
 
 ## Reflexión
-El procesamiento en streaming permite detectar patrones en tiempo real, mientras que el procesamiento por lotes analiza datos históricos.
+## Reflexión
+El procesamiento en streaming permite identificar patrones y eventos en tiempo real, facilitando una respuesta inmediata, mientras que el procesamiento por lotes analiza datos históricos para generar informes y análisis agregados, aportando una visión completa a largo plazo.
+
