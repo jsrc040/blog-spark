@@ -8,7 +8,8 @@ title: "Análisis de Flujo de Datos Simulado con Spark y Jekyll"
 Este proyecto muestra cómo analizar un flujo de clics simulado usando **Python** y **Spark**, y visualizar los resultados mediante un **gráfico de barras**.
 
 ## Objetivo
-Aplicar analítica avanzada para procesar un flujo de datos simulado en un contexto empresarial.
+Aplicar técnicas de analítica avanzada para procesar y visualizar un flujo de datos simulado en un contexto empresarial, con el fin de identificar patrones de comportamiento de los usuarios, como la frecuencia y distribución de clics, apoyar la toma de decisiones estratégicas, y evaluar enfoques de procesamiento por lotes y en tiempo real.
+
 
 ## Gráfico
 ![Gráfico de clics](/assets/clicks_chart.png)
