@@ -20,7 +20,7 @@ Aplicar técnicas de analítica avanzada para procesar y visualizar un flujo de 
 ## Reflexión
 El procesamiento en streaming permite identificar patrones y eventos en tiempo real, facilitando una respuesta inmediata, mientras que el procesamiento por lotes analiza datos históricos para generar informes y análisis agregados, aportando una visión completa a largo plazo.
 
-## elaborado por
+## Elaborado por
 Juan Sebastian Rodriguez Castillo ing-software 
 
 
