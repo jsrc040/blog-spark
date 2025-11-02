@@ -13,7 +13,7 @@ Aplicar técnicas de analítica avanzada para procesar y visualizar un flujo de 
 ## Gráfico
 ![Gráfico de clics](/assets/clicks_chart.png)
 
-[Ver análisis de datos →](https://jsrc040.github.io/blog-spark/analisis.md)
+[Ver análisis de datos →](https://jsrc040.github.io/blog-spark/analisis)
 
 
 
