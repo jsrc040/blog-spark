@@ -87,7 +87,7 @@ plt.close()
 ## Visualización
 
 <div align="center">
-  <img src="/assets/clicks_chart.png" alt="Gráfico de clics por usuario" width="700"/>
+  <img src="/blog-spark/assets/clicks_chart.png" alt="Gráfico de clics por usuario" width="700"/>
 </div>
 
 ## Interpretación
